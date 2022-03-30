@@ -1,0 +1,20 @@
+Github
+É uma plataforma usada para gerenciar, hospedar códigos e arquivos, além de facilitar a criação de ambientes de colaboração entre pessoas desenvolvedoras. O GitHub usa como sistema de controle de versão o Git. Ou seja, o GitHub facilita e auxilia a usar o Git no dia a dia. 
+
+Git
+É um sistema de controle de versão local, ele ajuda quem desenvolve a manter o histórico das versões ao longo do tempo, e traz vantagens para o desenvolvimento individual. Já o GitHub usa os recursos dele para serem usados de forma colaborativa, auxiliando o gerenciamento desses projetos e também dos times, além de também ser uma rede social e contribuir para o universo open source.
+
+Repositórios
+Um repositório, ou repo, é um diretório onde você armazena os arquivos do seu projeto, que podem ser códigos, imagens, áudios, vídeos ou qualquer coisa relacionada a esse projeto. Ele pode ficar armazenado no seu computador, um repositório local, ou também ser armazenado em alguns serviços como GitHub, BitBucket ou GitLab, ou seja, um repositório remoto.
+
+Branches
+Branch significa “ramo”, ou seja, uma ramificação do seu código. Imagine a seguinte situação: você tem o seu código que já está funcionando em produção e precisa desenvolver uma nova funcionalidade (“feature”). Mas você não pode mexer direto no código em produção. 
+Para isso, você cria uma ramificação do seu código, uma branch, em que você pega o estado atual daquele código e cria um novo ambiente para desenvolver a nova feature a partir dali. 
+Dessa forma, você não altera a versão principal do seu código, consegue desenvolver sua funcionalidade com segurança, e quando esse código estiver funcionando, você poderá colocar ele na principal.
+
+Commits
+Um commit é um conjunto de alterações que você fez em um projeto. Ele marca uma versão do seu código. Um commit guarda as alterações feitas nos arquivos, quem fez essas alterações e uma mensagem que resume essa alteração. 
+Além disso, cada commit tem um hash único SHA1 que pode ser usado para acompanhar todas as alterações feitas no passado e inclusive pode ser usado para voltar em alguma alteração específica ou em algum ponto no tempo específico do seu código.
+
+Working Directory
+Também conhecido como Working Tree, é a área em que você está trabalhando. Onde estão todos os seus arquivos, onde você criará novos arquivos, deletará os velhos ou alterará os que já existem. Também é onde estão os arquivos untracked.
